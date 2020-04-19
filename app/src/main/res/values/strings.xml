@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Botanist</string>
+    <string name="toggle_camera">Toggle Camera</string>
+    <string name="detect_object">Detect Object</string>
+    <string name="capturedimage">capturedImage</string>
+    <string name="show_history">Show history</string>
+</resources>
